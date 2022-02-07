@@ -1,8 +1,8 @@
-matplotlib=="*"
-matplotlib-inline=="*"
-numpy=="*"
-pandas=="*"
-pickleshare=="*"
-requests=="*"
-streamlit=="*"
-yfinance=="*"
+matplotlib
+matplotlib-inline
+numpy
+pandas
+pickleshare
+requests
+streamlit
+yfinance
